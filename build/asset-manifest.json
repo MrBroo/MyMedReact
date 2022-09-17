@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/material-kit-react/static/js/main.c4c395bf.chunk.js",
+    "main.js.map": "/material-kit-react/static/js/main.c4c395bf.chunk.js.map",
+    "runtime-main.js": "/material-kit-react/static/js/runtime-main.2c6e89e3.js",
+    "runtime-main.js.map": "/material-kit-react/static/js/runtime-main.2c6e89e3.js.map",
+    "static/js/2.039532fb.chunk.js": "/material-kit-react/static/js/2.039532fb.chunk.js",
+    "static/js/2.039532fb.chunk.js.map": "/material-kit-react/static/js/2.039532fb.chunk.js.map",
+    "index.html": "/material-kit-react/index.html",
+    "static/js/2.039532fb.chunk.js.LICENSE.txt": "/material-kit-react/static/js/2.039532fb.chunk.js.LICENSE.txt",
+    "static/media/aparatura.835b29c3.jpg": "/material-kit-react/static/media/aparatura.835b29c3.jpg",
+    "static/media/doctor1.fb859ac4.jpg": "/material-kit-react/static/media/doctor1.fb859ac4.jpg",
+    "static/media/news.200f7da7.jpg": "/material-kit-react/static/media/news.200f7da7.jpg",
+    "static/media/otzivi.763d3852.jpg": "/material-kit-react/static/media/otzivi.763d3852.jpg",
+    "static/media/services.82398a34.jpg": "/material-kit-react/static/media/services.82398a34.jpg",
+    "static/media/skidki.f5f237ee.jpg": "/material-kit-react/static/media/skidki.f5f237ee.jpg",
+    "static/media/slider-bg-1.3480087a.jpg": "/material-kit-react/static/media/slider-bg-1.3480087a.jpg",
+    "static/media/welcome.f5e513c2.jpg": "/material-kit-react/static/media/welcome.f5e513c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c6e89e3.js",
+    "static/js/2.039532fb.chunk.js",
+    "static/js/main.c4c395bf.chunk.js"
+  ]
+}
